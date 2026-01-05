@@ -1,4 +1,4 @@
-# Mariami-QA-Portfolio
+
 # 🧪 QA Portfolio - Mariam Talakhadze
 
 ## 👩‍💻 About Me
